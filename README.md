@@ -23,5 +23,5 @@ GITHub
  push the image to docker hub
  https://docs.docker.com/docker-hub/repos/#:~:text=To%20push%20an%20image%20to,docs%2Fbase%3Atesting%20). 
 
- Copy your dockerhub image repo link:
+ Copy your dockerhub image repo link: https://hub.docker.com/repository/docker/allenrosej/hello-docker
 
